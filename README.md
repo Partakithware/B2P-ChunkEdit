@@ -25,17 +25,18 @@ This is an early concept, so not all has been done/updated.
 
 ## Screenshots
 
-Grid view:
-
-[![Grid view](https://i.ibb.co/xSRC2PWH/Screenshot-from-2025-07-06-11-02-22.png)](https://ibb.co/1fwv0h16)
-
-Raw view:
-
-[![Raw view](https://i.ibb.co/tPbrL5NR/Screenshot-from-2025-07-06-11-06-54.png)](https://ibb.co/cXNnYdpq)
 
 Chunk navigation and editing:
 
-[![Editing](https://i.ibb.co/8L8Zy1b0/Screenshot-from-2025-07-06-11-07-07.png)](https://ibb.co/4nNrbh27)
+[![FreshlyOpened](https://i.ibb.co/xSRC2PWH/Screenshot-from-2025-07-06-11-02-22.png)](https://ibb.co/1fwv0h16)
+
+Grid view:
+
+[![Grid view](https://i.ibb.co/tPbrL5NR/Screenshot-from-2025-07-06-11-06-54.png)](https://ibb.co/cXNnYdpq)
+
+Raw view:
+
+[![Raw view](https://i.ibb.co/8L8Zy1b0/Screenshot-from-2025-07-06-11-07-07.png)](https://ibb.co/4nNrbh27)
 
 ---
 
